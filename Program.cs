@@ -157,4 +157,4 @@ Console.WriteLine();
 double MaxNumber =  MaximumNumberArray(EndArray);
 double MinNumber =  MinimumNumberArray(EndArray);
 double Difference = DifferenceBetweenNumbers(MaxNumber, MinNumber);
-Console.WriteLine($"The difference between min and max - {Difference}. ");
+Console.WriteLine($"The difference between min and max - {Difference}");
